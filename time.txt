@@ -1,0 +1,31 @@
+Size(1280,720)
+
+0
+	time_otsu = 0.002350
+	time_watershed = 0.106484
+	time_only_grabcut = 5.548468
+	time_grabcut = 4.601594
+
+1
+	time_otsu = 0.004392
+	time_watershed = 0.099244
+	time_only_grabcut = 10.793927
+	time_grabcut = 4.688213
+
+2
+	time_otsu = 0.002799
+	time_watershed = 0.080358
+	time_only_grabcut = 9.042404
+	time_grabcut = 5.446774
+
+3
+	time_otsu = 0.002648
+	time_watershed = 0.084709
+	time_only_grabcut = 2.621982
+	time_grabcut = 2.337275
+
+4
+	time_otsu = 0.002873
+	time_watershed = 0.123652
+	time_only_grabcut = 4.330584
+	time_grabcut = 2.413045

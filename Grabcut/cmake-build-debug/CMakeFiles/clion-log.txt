@@ -1,0 +1,15 @@
+/home/j11218gpu/Downloads/clion-2018.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/j11218gpu/ljy_projects/paper/Grabcut
+CMake Error at /home/j11218gpu/Downloads/clion-2018.2.2/bin/cmake/linux/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake:137 (message):
+  Could NOT find CUDA: Found unsuitable version "8.0", but required is exact
+  version "10.0" (found /usr/local/cuda-8.0)
+Call Stack (most recent call first):
+  /home/j11218gpu/Downloads/clion-2018.2.2/bin/cmake/linux/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake:376 (_FPHSA_FAILURE_MESSAGE)
+  /home/j11218gpu/Downloads/clion-2018.2.2/bin/cmake/linux/share/cmake-3.12/Modules/FindCUDA.cmake:1094 (find_package_handle_standard_args)
+  /usr/local/share/OpenCV/OpenCVConfig.cmake:86 (find_package)
+  /usr/local/share/OpenCV/OpenCVConfig.cmake:105 (find_host_package)
+  CMakeLists.txt:6 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/j11218gpu/ljy_projects/paper/Grabcut/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/j11218gpu/ljy_projects/paper/Grabcut/cmake-build-debug/CMakeFiles/CMakeError.log".

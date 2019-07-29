@@ -1,0 +1,6 @@
+/home/j11218gpu/Downloads/clion-2018.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/j11218gpu/ljy_projects/paper/otsu
+-- Found CUDA: /usr/local/cuda (found suitable exact version "10.0") 
+-- Found OpenCV: /usr/local (found version "3.4.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/j11218gpu/ljy_projects/paper/otsu/cmake-build-debug
